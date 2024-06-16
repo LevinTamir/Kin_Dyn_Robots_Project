@@ -1,2 +1,3 @@
-University Project for "Kinematics and Dynamics of Robots" course.
-Programming Language: MATLAB
+A project for "Kinematics and Dynamics of Robots" course.
+Programming Language: MATLAB/Robotics system toolbox.
+Robotic Arm: ABB IRB120.
